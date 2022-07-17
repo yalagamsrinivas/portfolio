@@ -13,7 +13,7 @@ open shift platform and Docker images creation, converting open source 3d object
 data set labels into ZF’s internal labelling format and adopted for training and
 testing
 
-# Experience at Continental
+# Experience at Continental:
 
 • Analyzed different sensor modalities (RADAR, LiDAR, Camera) for improving Object
 detection and tracking functionality, implemented multi sensor data fusion
@@ -25,7 +25,7 @@ and Covariance Intersection Data Fusion,various Kalman Tracking models like
 Constant velocity, Constant Acceleration, and Constant Turn Models.
 
 
-# Experience at L&T TS
+# Experience at L&T TS:
 
 • Implemented Lane Detection algorithm using OpenCV and same re implemented
 in C.
