@@ -1,4 +1,4 @@
-# Project 1
+# Experience at ZF:
 
 • Currently Working on 3D object detection using Early Fusion(modified version of
 Point Pillars Network) of LiDAR point cloud and 2D boxes of image.
@@ -13,7 +13,7 @@ open shift platform and Docker images creation, converting open source 3d object
 data set labels into ZF’s internal labelling format and adopted for training and
 testing
 
-# Project 2
+# Experience at Continental
 
 • Analyzed different sensor modalities (RADAR, LiDAR, Camera) for improving Object
 detection and tracking functionality, implemented multi sensor data fusion
@@ -25,7 +25,7 @@ and Covariance Intersection Data Fusion,various Kalman Tracking models like
 Constant velocity, Constant Acceleration, and Constant Turn Models.
 
 
-# Project 3
+# Experience at L&T TS
 
 • Implemented Lane Detection algorithm using OpenCV and same re implemented
 in C.
